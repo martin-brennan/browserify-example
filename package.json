@@ -1,0 +1,7 @@
+{
+  "name": "browserify-example",
+  "repo": "https://github.com/martin-brennan/browserify-example",
+  "devDependencies": {
+    "uglifyify": "^2.6.0"
+  }
+}
